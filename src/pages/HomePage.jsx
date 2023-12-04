@@ -39,12 +39,12 @@ const HomePage = () => {
               Hotel Pertama dan satu-satunya <strong>yang fiksional</strong>
             </h2>
             <p className="lead">
-              Diciptakan oleh <strong>[[Joel Christian Ngongoloy]]</strong>,
+              Diciptakan oleh <strong>Joel Christian Ngongoloy</strong>,
               mahasiswa Universitas Atma Jaya Yogyakarta dari program studi
               Informatika.
             </p>
             <p className="lead">
-              Nomor Pokok Mahasiswa: <strong>[[210711413]]</strong>
+              Nomor Pokok Mahasiswa: <strong>210711413</strong>
             </p>
           </Col>
           <Col md={5}>
